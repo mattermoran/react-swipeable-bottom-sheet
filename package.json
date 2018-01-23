@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "classnames": "^2.1.2",
-    "react-swipeable-views": "^0.12.8"
+    "react-swipeable-views": "mattermoran/react-swipeable-views",
+    "react-swipeable-views-core": "mattermoran/react-swipeable-views-core",
+    "react-swipeable-views-utils": "mattermoran/react-swipeable-views-utils"
   },
   "devDependencies": {
     "babel-eslint": "^4.1.3",
